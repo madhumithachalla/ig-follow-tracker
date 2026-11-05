@@ -47,6 +47,10 @@ python -m unittest discover tests
 
 Instagram exports can't be fetched automatically, so the agent is timely by prompting you. Create a weekly reminder that asks Claude to nudge you to request a fresh export and rerun the check, for example with Claude Code's `/schedule` or `/loop` skills ("every Monday 9am, remind me to export Instagram followers and run ig-unfollow-check").
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ## Privacy
 
-Exports and snapshots contain other people's usernames. Don't commit them (they're in `.gitignore`), and keep this repo **private**.
+Exports and snapshots contain other people's usernames. Never commit them (they're in `.gitignore`), and if you fork this repo, keep your own exports and snapshots out of it.
