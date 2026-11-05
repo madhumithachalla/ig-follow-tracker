@@ -1,0 +1,9 @@
+{
+  "name": "ig-follow-tracker",
+  "version": "0.1.0",
+  "description": "Find who doesn't follow you back and who recently unfollowed you on Instagram, using your official data export. Local-only, no login or scraping.",
+  "author": {
+    "name": "Madhumitha Challa"
+  },
+  "keywords": ["instagram", "followers", "unfollowers", "social"]
+}

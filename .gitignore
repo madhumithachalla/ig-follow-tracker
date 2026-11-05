@@ -1,0 +1,7 @@
+# Personal data: never commit exports or snapshots
+*.zip
+snapshots/
+keep.txt
+instagram-*/
+export*/
+__pycache__/
